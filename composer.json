@@ -1,0 +1,21 @@
+{
+    "name": "web136/php-stack",
+    "description": "Training for data structures coding",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Web136\\PhpStack\\": "src/PhpStack/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mitin Aleksandr",
+            "email": "jamanphonehtc@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
